@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Nest\\TaskNest\\TaskNest\\TaskNest.csproj": {}
+    "C:\\Users\\HP\\Desktop\\New folder (2)\\Nest2\\TaskNest\\TaskNest\\TaskNest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Nest\\TaskNest\\TaskNest\\TaskNest.csproj": {
+    "C:\\Users\\HP\\Desktop\\New folder (2)\\Nest2\\TaskNest\\TaskNest\\TaskNest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Nest\\TaskNest\\TaskNest\\TaskNest.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\New folder (2)\\Nest2\\TaskNest\\TaskNest\\TaskNest.csproj",
         "projectName": "TaskNest",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Nest\\TaskNest\\TaskNest\\TaskNest.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\New folder (2)\\Nest2\\TaskNest\\TaskNest\\TaskNest.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Nest\\TaskNest\\TaskNest\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\New folder (2)\\Nest2\\TaskNest\\TaskNest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
